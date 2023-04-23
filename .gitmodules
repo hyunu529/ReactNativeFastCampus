@@ -1,0 +1,6 @@
+[submodule "part2-ch1-kakao-friend-list"]
+	path = part2-ch1-kakao-friend-list
+	url = https://github.com/hyunu529/part2-ch1-kakao-friend-list.git
+[submodule "part2-ch2-calculator"]
+	path = part2-ch2-calculator
+	url = https://github.com/hyunu529/part2-ch2-calculator.git
